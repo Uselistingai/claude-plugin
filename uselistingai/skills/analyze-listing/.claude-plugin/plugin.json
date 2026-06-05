@@ -1,0 +1,20 @@
+{
+  "name": "uselistingai",
+  "displayName": "UseListingAI — Listing Analysis",
+  "description": "Analyze any residential real estate listing URL and get a complete intelligence report — listing strength score, content gaps, price positioning, and Fair Housing compliance scan. Built for real estate agents.",
+  "author": {
+    "name": "UseListingAI",
+    "url": "https://uselistingai.com"
+  },
+  "category": "productivity",
+  "keywords": [
+    "real estate",
+    "listing analysis",
+    "MLS",
+    "fair housing",
+    "realtor",
+    "agent",
+    "property"
+  ],
+  "homepage": "https://uselistingai.com/analyze"
+}
